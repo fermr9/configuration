@@ -1,0 +1,8 @@
+group: "Academy"
+
+application:
+  version: 1.0
+  country: "MX"
+  language: "ES"
+
+  

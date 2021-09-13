@@ -1,0 +1,5 @@
+application:
+  errors:
+    badrequest: "The input values are incorrect, pls try again"
+    internalServerError: "Ups, somehting went wrong"
+    
